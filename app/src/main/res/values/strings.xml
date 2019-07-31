@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Snozzy</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
